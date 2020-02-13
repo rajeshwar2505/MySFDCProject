@@ -1,5 +1,7 @@
-Class Hellow World{
-public void main(){
-system.debug('My Git World.');
-}
+Class HellowWorld{
+	
+	public void main(){
+	system.debug('My Git World.');
+
+	}
 }
